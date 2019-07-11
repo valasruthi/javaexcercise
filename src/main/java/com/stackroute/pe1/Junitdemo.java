@@ -11,6 +11,6 @@ public class Junitdemo {
     }
 
     public String reverseString(String hello) {
-        return("olleH");
+        return("oleH");
     }
 }
