@@ -17,12 +17,14 @@ public class TomAndJerryTest {
     public void givenAStringAndShouldReturnOdd() {
         TomAndJerry tomAndJerry = new TomAndJerry();
         String actualResult = tomAndJerry.tomAndJerry(24);
-        assertNotNull(actualResult);
+        //assertNotNull(actualResult);
+        assertEquals("tom", actualResult);
     }
     @Test
     public void givenAStringAndShouldReturnNotInRange() {
         TomAndJerry tomAndJerry = new TomAndJerry();
         String actualResult = tomAndJerry.tomAndJerry(18);
-        assertNotNull(actualResult);
+        //assertNotNull(actualResult);
+        assertEquals("not in a range", actualResult);
     }
 }
