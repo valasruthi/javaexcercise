@@ -252,13 +252,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.JunitdemoTest">
-    <configuration name="Iteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.Iteration" />
+  <component name="RunManager" selected="Application.ArraySum">
+    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.ArraySum" />
       <module name="JavaExcercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,8 +266,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.Palindrome" />
+    <configuration name="Iteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.Iteration" />
       <module name="JavaExcercise" />
       <extension name="coverage">
         <pattern>
@@ -321,19 +321,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Iteration" />
       <item itemvalue="Application.StringPrinting" />
       <item itemvalue="Application.Vowels" />
       <item itemvalue="JUnit.JunitdemoTest" />
+      <item itemvalue="Application.ArraySum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraySum" />
         <item itemvalue="JUnit.JunitdemoTest" />
         <item itemvalue="Application.Vowels" />
         <item itemvalue="Application.StringPrinting" />
         <item itemvalue="Application.Iteration" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
